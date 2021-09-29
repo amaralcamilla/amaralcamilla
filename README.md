@@ -1,9 +1,9 @@
 ## Hello, world! 🙃
 
 ### 👩‍💻 Sou Camilla Amaral
-- 🔭 Estudante DEVinHouse SENAI/SC.
+- 📚 Estudante DEVinHouse SENAI/SC.
 - 🌱 Atualmente aprendendo HTML, CSS, JavaScript e React.
-- 🌳 Full Stack to-be.
+- 🚀 Full Stack to-be.
 
 <div align="left">
   <a href="https://github.com/amaralcamilla">
