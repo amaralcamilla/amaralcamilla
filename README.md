@@ -1,6 +1,5 @@
-## Hey!
+## Camilla Amaral
 
-###  Sou Camilla Amaral
 - 📚 Estudante DEVinHouse SENAI/SC.
 - 🌱 Atualmente aprendendo React JS.
 - 🚀 Dev Full Stack em formação.
