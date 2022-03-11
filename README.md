@@ -1,7 +1,7 @@
 ## Camilla Amaral
 
 - 📚 Estudante DEVinHouse SENAI/SC.
-- 🌱 Atualmente desenvolvendo em React Js e aprendendo Java.
+- 🌱 Atualmente desenvolvendo em React Js e aprendendo Spring.
 - 🚀 Dev Full Stack em formação.
 
 <div align="left">
