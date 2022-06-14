@@ -1,8 +1,8 @@
 ## Camilla Amaral
 
-📚 Estudante DEVinHouse SENAI/SC. <br>
-🌱 JavaScript, React, Angular, Java, Spring. <br>
-🚀 Dev Full Stack em formação. <br>
+👩‍💻 Desenvolvedora Full Stack <br>
+🎓 DEVinHouse SENAI - Involves & PariPassu <br>
+🚀 JavaScript, React, Angular, Java, Spring, PostgreSQL. <br>
 
 <div align="left">
   <a href="https://github.com/amaralcamilla">
