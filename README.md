@@ -2,7 +2,7 @@
 
 👩‍💻 Desenvolvedora Full Stack <br>
 🎓 DEVinHouse SENAI - Involves & PariPassu <br>
-🚀 JavaScript, React, Angular, Java, Spring, PostgreSQL. <br>
+🚀 JavaScript, React, Angular, Java, Spring, PostgreSQL <br>
 
 <div align="left">
   <a href="https://github.com/amaralcamilla">
