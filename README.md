@@ -1,8 +1,8 @@
 ## Camilla Amaral
 
-👩‍💻 Desenvolvedora Full Stack <br>
-🎓 DEVinHouse SENAI [ Involves | PariPassu ] <br>
-🚀 JavaScript, React, React Native, AngularJs, Java, Spring, PostgreSQL <br>
+👩‍💻 Desenvolvedora mobile e front-end <br>
+🚀 React Native e ReactJs <br>
+📲 https://conecta.paripassu.com.br/
 
 <div align="left">
   <a href="https://github.com/amaralcamilla">
