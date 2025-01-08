@@ -1,13 +1,8 @@
 ## Camilla Amaral
 
-👩‍💻 Desenvolvedora mobile e front-end <br>
-🚀 React Native e ReactJs <br>
+👩‍💻 Software Engineer | Mobile Developer <br>
+🚀 ReactJs | React Native <br>
 📲 https://conecta.paripassu.com.br/
-
-<div align="left">
-  <a href="https://github.com/amaralcamilla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralcamilla&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
   
 <div align="left"> 
   <a href = "mailto:camillaamaral7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
