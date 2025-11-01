@@ -1,8 +1,7 @@
 ## Camilla Amaral
 
-👩‍💻 Software Engineer | Mobile Developer <br>
+👩‍💻 Frontend Engineer | Mobile Developer <br>
 🚀 ReactJs | React Native <br>
-📲 https://conecta.paripassu.com.br/
   
 <div align="left"> 
   <a href = "mailto:camillaamaral7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
